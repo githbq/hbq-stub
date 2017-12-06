@@ -1,5 +1,5 @@
 {
-    "name": "hbq-stub",
+    "name": "light-stub",
     "version": "0.0.1",
     "description": "hbq-stub",
     "main": "build/index.js",
@@ -25,9 +25,9 @@
         "tslint": "^5.1.0",
         "typescript": "^2.3.2"
     },
-    "keywords": ["typescript", "hbq-stub"],
+    "keywords": ["typescript", "stub"],
     "author": "hubiqing",
-    "repository": "https://github.com/githbq/hbq-module-boilerplate.git",
+    "repository": "https://github.com/githbq/hbq-stub.git",
     "engines": {"node": ">=7.6"},
     "license": "MIT"
 }
